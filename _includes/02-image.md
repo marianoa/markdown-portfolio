@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Atlanta from Piedmont Park](https://media.istockphoto.com/photos/atlanta-skyline-picture-id167285894)
